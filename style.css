@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  p {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 1rem;
+    width: 80%;
+    max-width: 400px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .loading {
+    color: #ffa500;
+    font-style: italic;
+  }
+  
+  .city-fact {
+    color: #333;
+    font-weight: bold;
+  }
+  
